@@ -19,7 +19,7 @@ Using a deck of cards, you can generate the band's name by drawing a combination
 
 ### **Adjective/Noun Assignments:**
 
-|**Card Value**|**Hearts (Adjectives)**|**Diamonds (Adjectives)**|**Clubs (Nouns)**|**Spades (Nouns)**|
+|**Card Value**|**♥️ Adjectives**|**♦️ Adjectives**|**♣️ Nouns**|**♠️ Nouns**|
 |---|---|---|---|---|
 |**Ace**|Loud|Resilient|Echo|Riot|
 |**2**|Proud|Fierce|Wave|Anthem|
@@ -47,7 +47,7 @@ The song name generator works similarly, with the first card providing a theme o
 
 ### **Theme/Concept Assignments:**
 
-|**Card Value**|**Hearts (Theme/Action)**|**Diamonds (Theme/Action)**|**Clubs (Concept/ Object)**|**Spades (Concept/ Object)**|
+|**Card Value**|**♥️ Theme/Action**|**♦️ Theme/Action**|**♣️ Concept/Object**|**♠️ Concept/Object**|
 |---|---|---|---|---|
 |**Ace**|Resilient|Marching|Heart|Freedom|
 |**2**|Rising|Breaking|Silence|Revolution|
